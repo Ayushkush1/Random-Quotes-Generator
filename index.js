@@ -2,7 +2,7 @@ const btnE1 = document.getElementById("btn");
 const quoteE1 = document.getElementById("quote");
 const authorE1 = document.getElementById("author");
 
-const apiURL = "http://api.quotable.io/random";
+const apiURL = "https://api.quotable.io/random";
 
 async function getQuote() {
 
